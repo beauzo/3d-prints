@@ -1,4 +1,4 @@
-# RV-14A Fridge Magnet
+# RV-14A Refrigerator Magnet
 
 This is a fun must-have [print](./3mf/rv_14a_mag.3mf) for those building an RV-14A experimental aircraft. 
 
